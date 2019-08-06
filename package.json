@@ -1,0 +1,23 @@
+{
+  "name": "codingkatas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonngiam/codingkatas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonngiam/codingkatas/issues"
+  },
+  "homepage": "https://github.com/brandonngiam/codingkatas#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
